@@ -27,7 +27,7 @@ This repository contains a conversational chatbot built using the [LangChain](ht
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/langchain-chatbot.git
+   git clone https://github.com/snehaapratap/AI-based-Chatbot-using-Langchain.git
    cd langchain-chatbot
    ```
 
